@@ -47,7 +47,9 @@ AI-Email-Reply-Generator/
 ├── static/
 │   ├── style.css
 │   └── script.js
-│
+├── screenshots/
+│   ├── home.png
+│   └── reply.png
 └── README.md
 ```
 
@@ -136,3 +138,14 @@ http://127.0.0.1:5000
 - Reply history
 - Dark mode
 
+--
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Generated Reply
+
+![Generated Reply](screenshots/reply.png)
